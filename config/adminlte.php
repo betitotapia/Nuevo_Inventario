@@ -338,7 +338,7 @@ return [
         'text' => 'Traspasos',
         'route' => 'inventario.traspasos.index',
         'icon' => 'fas fa-exchange-alt',
-        'can'  => 'ver_traspasos',
+        'can'  => 'crear_traspasos',
     ],
     [
         'text' => 'Ajustes',
